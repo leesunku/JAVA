@@ -1,4 +1,4 @@
-1.	final, finally, finalize
+#	final, finally, finalize
 # final 
 ## 선언부에 따라 다르다
 ## class 의 final 사용 - class 가 상속되지 않도록 하기 위하여 선언
